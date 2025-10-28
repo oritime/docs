@@ -1,122 +1,119 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
-  "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+
+  "name": "起源云文档",
+  "description": "起源云 · 面向 AI 开发的新一代智算云平台",
+
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg",
+    "href": "https://origincloud.com.cn"
   },
+
   "favicon": "/favicon.svg",
+
+  "colors": {
+    "primary": "#3B82F6",
+    "light": "#60A5FA",
+    "dark": "#2563EB"
+  },
+
+  "navbar": {
+    "links": [
+      { "label": "官网", "href": "https://origincloud.com.cn" },
+      { "label": "控制台", "href": "https://origincloud.com.cn/console" },
+      { "label": "文档中心", "href": "https://docs.origincloud.com.cn" },
+      { "label": "算力市场", "href": "https://origincloud.com.cn/app/market" }
+    ]
+  },
+
   "navigation": {
-    "tabs": [
+    "groups": [
       {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
-          }
+        "group": "开始使用",
+        "pages": [
+          "getting-started/what-is-origincloud",
+          "getting-started/why-choose-origincloud",
+          "getting-started/quickstart",
+          "getting-started/concepts",
+          "getting-started/pricing"
         ]
       },
       {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
+        "group": "实例管理",
+        "pages": [
+          "instances/create",
+          "instances/connect",
+          "instances/upgrade-downgrade",
+          "instances/save-and-release",
+          "instances/custom-service"
+        ]
+      },
+      {
+        "group": "存储与数据",
+        "pages": [
+          "storage/origin-disk",
+          "storage/data-disk",
+          "storage/upload-download",
+          "storage/multi-instance"
+        ]
+      },
+      {
+        "group": "AI 与开发者生态",
+        "pages": [
+          "ai-dev/overview",
+          "ai-dev/terminal",
+          "ai-dev/mcp",
+          "ai-dev/auto-learning",
+          "ai-dev/smart-recommend",
+          "ai-dev/api-overview",
+          "ai-dev/webhooks",
+          "ai-dev/sdk"
+        ]
+      },
+      {
+        "group": "安全与权限",
+        "pages": [
+          "security/account",
+          "security/ssh",
+          "security/network"
+        ]
+      },
+      {
+        "group": "故障排查",
+        "pages": [
+          "troubleshooting/faq",
+          "troubleshooting/connection",
+          "troubleshooting/environment",
+          "troubleshooting/training"
+        ]
+      },
+      {
+        "group": "关于起源云",
+        "pages": [
+          "about/design-principles",
+          "about/architecture",
+          "about/roadmap",
+          "about/feedback"
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
-  },
-  "contextual": {
-    "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
-  },
+
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "github": "https://github.com/origincloud"
     }
+  },
+
+  "feedback": {
+    "thumbsRating": true,
+    "suggestEdit": true,
+    "raiseIssue": true
+  },
+
+  "search": {
+    "placeholder": "搜索文档..."
   }
 }
