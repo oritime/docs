@@ -8,7 +8,9 @@
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg",
-    "href": "https://origincloud.com.cn"
+    "href": "https://origincloud.com.cn",
+    "width": 200,
+    "height": 40  
   },
 
   "favicon": "/favicon.svg",
