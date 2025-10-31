@@ -1,92 +1,140 @@
 ---
 title: 起源云文档中心
-description: 一站式 GPU 智算云使用指南｜快速上手、功能说明、AI 生态集成
+description: GPU 智算云使用指南 - 快速上手、功能说明、AI 生态集成
 ---
 
-# 起源云文档中心
+欢迎使用起源云。这里是完整的使用指南，从注册账号到启动训练，你需要的信息都在这里。
 
-欢迎来到 **起源云（OriginCloud）帮助文档**。  
-这里汇总了从**注册账号 → 创建实例 → 上传数据 → 启动训练 → 保存镜像**的完整流程。
-
-> 起源云是新一代智算云平台，提供无卡创建、秒级计费、AI终端、MCP原生支持等功能，  
-> 让 AI 训练像打开笔记本一样简单。
+无卡创建、秒级计费、AI 助手、MCP 集成——让 GPU 使用更简单。
 
 ---
 
-## 🚀 快速入口
+## 从这里开始
+
 <CardGroup cols={3}>
-  <Card title="欢迎使用起源云" icon="sparkles" href="/getting-started/what-is-origin">
-    了解平台理念与核心优势。
+  <Card title="快速上手" icon="rocket" href="/getting-started/quickstart">
+    10 分钟完成第一次使用
   </Card>
-  <Card title="快速开始" icon="rocket" href="/getting-started/quickstart">
-    5 分钟上手 GPU 训练任务。
+  <Card title="为什么选起源云" icon="star" href="/getting-started/why-choose-origin">
+    14 个差异化功能
   </Card>
-  <Card title="创建实例" icon="server" href="/instances/create">
-    选择 GPU、镜像，开始你的第一个实例。
-  </Card>
-  <Card title="连接环境" icon="terminal" href="/instances/connect">
-    支持 JupyterLab、SSH、VSCode 多种连接方式。
-  </Card>
-  <Card title="AI 终端" icon="robot" href="/ai-dev/terminal">
-    内置 AI 助手，自动调试与优化训练。
-  </Card>
-  <Card title="存储与数据" icon="database" href="/storage/origin-disk">
-    起源云盘与数据盘使用说明。
+  <Card title="核心概念" icon="book" href="/getting-started/concepts">
+    理解关键术语
   </Card>
 </CardGroup>
 
-## 💡 常用指南
+---
+
+## 实例管理
+
 <CardGroup cols={2}>
-  <Card title="如何选择 GPU" icon="cpu" href="/getting-started/concepts">
-    按模型类型推荐最优 GPU 组合。
+  <Card title="创建实例" icon="plus" href="/instances/create">
+    选择 GPU 和镜像，创建工作环境
   </Card>
-  <Card title="上传与下载数据" icon="upload" href="/storage/upload-download">
-    支持网页上传、SCP、Rsync、CLI 工具。
+  <Card title="连接实例" icon="terminal" href="/instances/connect">
+    JupyterLab、SSH、VSCode 多种方式
   </Card>
-  <Card title="保存镜像" icon="hard-drive" href="/instances/save-and-release">
-    运行中保存镜像，无需关机。
+  <Card title="在线升降配" icon="arrows-up-down" href="/instances/upgrade-downgrade">
+    运行中更换 GPU，无需关机
   </Card>
-  <Card title="常见问题" icon="question-mark" href="/troubleshooting/faq">
-    连接、计费、训练常见问题。
+  <Card title="保存镜像与释放" icon="hard-drive" href="/instances/save-and-release">
+    运行中保存镜像，直接释放实例
   </Card>
 </CardGroup>
 
-## 🧠 进阶功能
+---
+
+## 存储与数据
+
+<CardGroup cols={2}>
+  <Card title="起源云盘" icon="cloud" href="/storage/origin-disk">
+    对象存储，跨实例共享，网页管理
+  </Card>
+  <Card title="数据传输" icon="upload" href="/storage/upload-download">
+    网页、SCP、Rsync 多种上传方式
+  </Card>
+  <Card title="数据盘管理" icon="database" href="/storage/data-disk">
+    在线扩容，立即生效
+  </Card>
+  <Card title="多实例共享" icon="share" href="/storage/multi-instance">
+    数据在多个实例间共享的最佳实践
+  </Card>
+</CardGroup>
+
+---
+
+## AI 与自动化
+
 <CardGroup cols={3}>
   <Card title="AI 终端" icon="robot" href="/ai-dev/terminal">
-    智能错误诊断与一键修复。
+    智能错误诊断，自动分析和解决问题
   </Card>
   <Card title="MCP 协议" icon="plug" href="/ai-dev/mcp">
-    让 Agent/IDE 直接操作实例。
+    让 Claude、Cursor 直接操作实例
   </Card>
   <Card title="自动学习系统" icon="brain" href="/ai-dev/auto-learning">
-    自动记录与复现训练流程。
+    自动记录操作，生成可复现教程
   </Card>
 </CardGroup>
 
-## 🗓️ 最新公告
-<Alert>
-📢 **当前版本：v1.0.0（正式版）**  
-- 支持 AI 终端与 MCP 集成  
-- 新增无卡创建与运行中保存镜像  
-- 数据盘支持在线扩容  
-🚧 团队管理与 API 功能即将推出
-</Alert>
+---
+
+## 安全与计费
+
+<CardGroup cols={2}>
+  <Card title="账号管理" icon="user" href="/security/account">
+    注册、登录、实名认证
+  </Card>
+  <Card title="SSH 管理" icon="key" href="/security/ssh">
+    密码即时生效，密钥管理
+  </Card>
+  <Card title="计费说明" icon="coins" href="/getting-started/pricing">
+    秒级计费，价格透明
+  </Card>
+  <Card title="常见问题" icon="question-mark" href="/troubleshooting/faq">
+    快速解决常见问题
+  </Card>
+</CardGroup>
 
 ---
-## 🤝 联系与支持
 
-有问题或建议？请前往  
-👉 [反馈与支持页面](/about/feedback)  
-或通过微信扫码加入用户群：
+## 开发者
+
+<CardGroup cols={2}>
+  <Card title="API 概览" icon="code" href="/developers/api-overview">
+    RESTful API 文档（即将推出）
+  </Card>
+  <Card title="MCP 工具" icon="wrench" href="/developers/mcp-tools">
+    MCP 工具参数和调用示例
+  </Card>
+</CardGroup>
+
+---
+
+## 当前版本
+
+**v1.0.0（正式版）**
+
+已上线功能：
+- ✅ AI 终端与 MCP 集成
+- ✅ 无卡创建与在线升降配
+- ✅ 运行中保存镜像
+- ✅ 数据盘在线扩容
+- ✅ 起源云盘自动挂载
+
+开发中：
+- 团队管理功能
+- API 与 Webhooks
+- AI 智能选卡
+
+---
+
+## 需要帮助？
+
+如有问题或建议，请前往[反馈与支持](/about/feedback)页面提交。
+
+也可以扫描下方二维码加入官方交流群：
 
 <p align="center">
-  <img src="/images/origincloud-qrcode.png" alt="起源云用户交流群二维码" width="360" />
-  <br />
-  <em>扫描二维码加入官方交流群</em>
+  <img src="/images/origincloud-qrcode.png" alt="起源云用户交流群" width="200" />
 </p>
-
-
-
-
-

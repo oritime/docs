@@ -35,7 +35,6 @@
       {
         "group": "开始使用",
         "pages": [
-          "getting-started/what-is-origincloud",
           "getting-started/why-choose-origincloud",
           "getting-started/quickstart",
           "getting-started/concepts",
@@ -49,7 +48,8 @@
           "instances/connect",
           "instances/upgrade-downgrade",
           "instances/save-and-release",
-          "instances/custom-service"
+          "instances/custom-service",
+          "instances/images"
         ]
       },
       {
