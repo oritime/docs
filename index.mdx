@@ -1,13 +1,8 @@
 ---
 title: 起源云文档中心
-description: GPU 智算云使用指南 - 快速上手、功能说明、AI 生态集成
 ---
 
-欢迎使用起源云。这里是完整的使用指南，从注册账号到启动训练，你需要的信息都在这里。
 
-无卡创建、秒级计费、AI 助手、MCP 集成——让 GPU 使用更简单。
-
----
 
 ## 从这里开始
 
@@ -15,11 +10,11 @@ description: GPU 智算云使用指南 - 快速上手、功能说明、AI 生态
   <Card title="快速上手" icon="rocket" href="/getting-started/quickstart">
     10 分钟完成第一次使用
   </Card>
-  <Card title="为什么选起源云" icon="star" href="/getting-started/why-choose-origin">
-    14 个差异化功能
+  <Card title="为什么选起源云" icon="star" href="/getting-started/why-choose-origincloud">
+    11 个差异化功能
   </Card>
-  <Card title="核心概念" icon="book" href="/getting-started/concepts">
-    理解关键术语
+  <Card title="创建实例" icon="plus" href="/instances/create">
+    开始创建第一个实例
   </Card>
 </CardGroup>
 
@@ -28,14 +23,14 @@ description: GPU 智算云使用指南 - 快速上手、功能说明、AI 生态
 ## 实例管理
 
 <CardGroup cols={2}>
-  <Card title="创建实例" icon="plus" href="/instances/create">
-    选择 GPU 和镜像，创建工作环境
+  <Card title="无卡创建实例" icon="circle-dashed" href="/instances/cardless-creation">
+    先准备环境，再添加 GPU，节省费用
   </Card>
   <Card title="连接实例" icon="terminal" href="/instances/connect">
     JupyterLab、SSH、VSCode 多种方式
   </Card>
   <Card title="在线升降配" icon="arrows-up-down" href="/instances/upgrade-downgrade">
-    运行中更换 GPU，无需关机
+    运行中调整 GPU 数量和配置
   </Card>
   <Card title="保存镜像与释放" icon="hard-drive" href="/instances/save-and-release">
     运行中保存镜像，直接释放实例
@@ -56,7 +51,7 @@ description: GPU 智算云使用指南 - 快速上手、功能说明、AI 生态
   <Card title="数据盘管理" icon="database" href="/storage/data-disk">
     在线扩容，立即生效
   </Card>
-  <Card title="多实例共享" icon="share" href="/storage/multi-instance">
+  <Card title="跨实例复制" icon="share" href="/storage/cross-instance-copy">
     数据在多个实例间共享的最佳实践
   </Card>
 </CardGroup>
@@ -69,7 +64,7 @@ description: GPU 智算云使用指南 - 快速上手、功能说明、AI 生态
   <Card title="AI 终端" icon="robot" href="/ai-dev/terminal">
     智能错误诊断，自动分析和解决问题
   </Card>
-  <Card title="MCP 协议" icon="plug" href="/ai-dev/mcp">
+  <Card title="MCP 协议" icon="plug" href="/ai-dev/mcp-intro">
     让 Claude、Cursor 直接操作实例
   </Card>
   <Card title="自动学习系统" icon="brain" href="/ai-dev/auto-learning">
@@ -101,37 +96,20 @@ description: GPU 智算云使用指南 - 快速上手、功能说明、AI 生态
 ## 开发者
 
 <CardGroup cols={2}>
-  <Card title="API 概览" icon="code" href="/developers/api-overview">
+  <Card title="API 概览" icon="code" href="/api/overview">
     RESTful API 文档（即将推出）
   </Card>
-  <Card title="MCP 工具" icon="wrench" href="/developers/mcp-tools">
+  <Card title="MCP 使用指南" icon="wrench" href="/ai-dev/mcp-guide">
     MCP 工具参数和调用示例
   </Card>
 </CardGroup>
 
 ---
 
-## 当前版本
-
-**v1.0.0（正式版）**
-
-已上线功能：
-- ✅ AI 终端与 MCP 集成
-- ✅ 无卡创建与在线升降配
-- ✅ 运行中保存镜像
-- ✅ 数据盘在线扩容
-- ✅ 起源云盘自动挂载
-
-开发中：
-- 团队管理功能
-- API 与 Webhooks
-- AI 智能选卡
-
----
 
 ## 需要帮助？
 
-如有问题或建议，请前往[反馈与支持](/about/feedback)页面提交。
+如有问题或建议，请通过控制台反馈功能提交。
 
 也可以扫描下方二维码加入官方交流群：
 

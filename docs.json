@@ -1,7 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-
   "name": "起源云文档",
   "description": "起源云 · 面向 AI 开发的新一代智算云平台",
 
@@ -10,7 +9,7 @@
     "dark": "/logo/dark.svg",
     "href": "https://origincloud.com.cn",
     "width": 200,
-    "height": 40  
+    "height": 40
   },
 
   "favicon": "/favicon.svg",
@@ -35,9 +34,9 @@
       {
         "group": "开始使用",
         "pages": [
-          "getting-started/why-choose-origincloud",
           "getting-started/quickstart",
-          "getting-started/concepts",
+          "getting-started/why-choose-origincloud",
+          "getting-started/choose-gpu",
           "getting-started/pricing"
         ]
       },
@@ -46,38 +45,89 @@
         "pages": [
           "instances/create",
           "instances/connect",
+          "instances/cardless-creation",
           "instances/upgrade-downgrade",
-          "instances/save-and-release",
-          "instances/custom-service",
-          "instances/images"
+          "instances/auto-shutdown",
+          "instances/save-and-release"
+        ]
+      },
+      {
+        "group": "镜像管理",
+        "pages": [
+          "image-mgmt/overview",
+          "image-mgmt/official",
+          "image-mgmt/custom",
+          "image-mgmt/share"
         ]
       },
       {
         "group": "存储与数据",
         "pages": [
+          "storage/overview",
           "storage/origin-disk",
           "storage/data-disk",
+          "storage/region-disk",
           "storage/upload-download",
-          "storage/multi-instance"
+          "storage/cross-instance-copy"
         ]
       },
       {
-        "group": "AI 与开发者生态",
+        "group": "开发工具连接",
+        "pages": [
+          "dev-tools/jupyter",
+          "dev-tools/ssh",
+          "dev-tools/pycharm",
+          "dev-tools/vscode",
+          "dev-tools/vnc",
+          "dev-tools/tensorboard"
+        ]
+      },
+      {
+        "group": "环境配置",
+        "pages": [
+          "environment/pytorch",
+          "environment/tensorflow",
+          "environment/conda",
+          "environment/pip",
+          "environment/linux-commands"
+        ]
+      },
+      {
+        "group": "AI 与自动化",
         "pages": [
           "ai-dev/overview",
           "ai-dev/terminal",
-          "ai-dev/mcp",
-          "ai-dev/auto-learning",
           "ai-dev/smart-recommend",
-          "ai-dev/api-overview",
-          "ai-dev/webhooks",
-          "ai-dev/sdk"
+          "ai-dev/mcp-intro",
+          "ai-dev/mcp-guide",
+          "ai-dev/auto-learning"
         ]
       },
       {
-        "group": "安全与权限",
+        "group": "开发者 API",
+        "pages": [
+          "api/overview",
+          "api/authentication",
+          "api/instances",
+          "api/images",
+          "api/sdk"
+        ]
+      },
+      {
+        "group": "企业服务",
+        "pages": [
+          "enterprise/overview",
+          "enterprise/team-management",
+          "enterprise/quota-management",
+          "enterprise/billing",
+          "enterprise/custom-solutions"
+        ]
+      },
+      {
+        "group": "账号与安全",
         "pages": [
           "security/account",
+          "security/realname",
           "security/ssh",
           "security/network"
         ]
@@ -85,19 +135,16 @@
       {
         "group": "故障排查",
         "pages": [
-          "troubleshooting/faq",
-          "troubleshooting/connection",
-          "troubleshooting/environment",
-          "troubleshooting/training"
+          "troubleshooting/faq"
         ]
       },
       {
-        "group": "关于起源云",
+        "group": "服务条款与协议",
         "pages": [
-          "about/design-principles",
-          "about/architecture",
-          "about/roadmap",
-          "about/feedback"
+          "legal/terms-of-service",
+          "legal/privacy-policy",
+          "legal/service-agreement",
+          "legal/custom-service-agreement"
         ]
       }
     ]
