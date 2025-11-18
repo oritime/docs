@@ -37,13 +37,15 @@
           "getting-started/quickstart",
           "getting-started/why-choose-origincloud",
           "getting-started/choose-gpu",
-          "getting-started/pricing"
+          "getting-started/pricing",
+          "getting-started/faq",
+          "getting-started/changelog"
         ]
       },
       {
         "group": "实例管理",
         "pages": [
-          "instances/create",
+          
           "instances/connect",
           "instances/cardless-creation",
           "instances/upgrade-downgrade",
@@ -72,7 +74,7 @@
         ]
       },
       {
-        "group": "开发工具连接",
+        "group": "最佳实践指南",
         "pages": [
           "dev-tools/jupyter",
           "dev-tools/ssh",

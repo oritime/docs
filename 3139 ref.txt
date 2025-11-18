@@ -1,0 +1,362 @@
+<h1 style="text-align:justify;" id="h1_8ad2fb39-9ab9-4d81-bfd8-d1423e2d9002">
+    <span>11.0 REFERENCES</span>
+</h1>
+<ul>
+    <li>
+        [1] V. Henze, "Energy Storage Investments Boom As Battery Costs Halve in the Next Decade," BloombergNEF, 1 July 2019. [Online]. Available: https://about.bnef.com/blog/energy-storage-investments-boom-battery-costs-halve-next-decade/. [Accessed 23 March 2020].
+    </li>
+    <li>
+        [2] K. Kumaraswamy, "Why networks think battery storage may be smarter choice than more poles and wires," RenewEconomy, 13 June 2019. [Online]. Available: https://reneweconomy.com.au/why-networks-think-battery-storage-may-be-smarter-choice-than-more-poles-and-wires-16241/. [Accessed 27 January 2020].
+    </li>
+    <li>
+        [3] Federal Energy Regulatory Commission, United States of America, "Electric Storage Participation in Markets Operated by Regional Transmission Organizations and Independent System Operators; FERC Order No. 841," 2018.
+    </li>
+    <li>
+        [4] "35x25 A Vision for Energy Storage," Energy Storage Association, 2017.
+    </li>
+    <li>
+        [5] J. Lesser, "America's Electricity Grid: Outdated or Underrated?," The Heritage Foundation, Massachusetts, 2014.
+    </li>
+    <li>
+        [6] N. Vidangos, L. Griffith, F. Flores-Espino and J. McCall, "Electricity in North America," U.S. Department of Energy, 2016.
+    </li>
+    <li>
+        [7] A. C. Christiana, "Behind-the-Meter Compressed Air Energy Storage Feasibility and Applications," University of Waterloo, Waterloo, 2019.
+    </li>
+    <li>
+        [8] G. Fitzgerald, J. Mandel, J. Morris and H. Touati, "The Economics of Battery Energy Storage," Rocky Mountain Institute, Boulder, 2015.
+    </li>
+    <li>
+        [9] "Applications of Energy Storage," Dufresne Private Ltd , [Online]. Available: https://energystorageforum.com/energy-storage-technologies/applications-of-energy-storage. [Accessed 27 January 2020].
+    </li>
+    <li>
+        [10] "Energy Storage," Hatch Ltd., Mississauga, 2018.
+    </li>
+    <li>
+        [11] K. Mongird, V. Fotedar, V. Viswanathan, V. Koritarov, B. Hadjerioua , P. Balducci and J. Alam , "Energy Storage Technology and Cost Characterization Report," U.S. Department of Energy, Oak Ridge, 2019.
+    </li>
+    <li>
+        [12] F. Maire, "US battery storage prospects lifted by policy progress, cost reduction," S&amp;P Global Platts, 16 January 2020. [Online]. Available: https://www.spglobal.com/en/research-insights/articles/us-battery-storage-prospects-lifted-by-policy-progress-cost-reduction. [Accessed 23 March 2020].
+    </li>
+    <li>
+        [13] S. Rodie, "Six Charts That Reveal What Analysts Think About The Future Of Energy Storage," BDO Global, 21 November 2018. [Online]. Available: https://www.bdo.global/en-gb/blogs/tech-media-watch-blog/november-1/six-charts-that-reveal-what-analysts-think-about-the-future-of-energy-storage. [Accessed 31 March 2020].
+    </li>
+    <li>
+        [14] A. Giovinetto and A. Eller , "Comparing the Costs of Long Duration Energy Storage Technologies," Navigant Consulting, Inc., Boulder, 2019.
+    </li>
+    <li>
+        [15] "Electricity Storage and Renewables: Costs and Markets to 2030," International Renewable Energy Agency, Abu Dhabi, 2017.
+    </li>
+    <li>
+        [16] N. E. Mohammad Rozali, S. R. Wan Alwi, Z. A. Manan, J. J. Klemeš and M. Y. Hassan, Optimisation of Pumped-Hydro Storage System for Hybrid Power System Using Power Pinch Analysis, Chemical Engineering Transaction, 2013.
+    </li>
+    <li>
+        [17] M. Stocks, A. Blakers, B. Lu, C. Cheng and A. Nadolny, "Global pumped hydro atlas," Australian National University, 13 August 2019. [Online]. Available: http://re100.eng.anu.edu.au/research/phes/. [Accessed 5 August 2020].
+    </li>
+    <li>
+        [18] MWH on Behalf of the U.S. Army Corps of ENgineers Northwest Division Hydroelectric Design Center, "Technical Analysis of Pumped Storage and and Integration with Wind Power in teh Pacific Northwest," August 2009. [Online]. Available: https://www.hydro.org/wp-content/uploads/2017/08/PS-Wind-Integration-Final-Report-without-Exhibits-MWH-3.pdf. [Accessed August 2020].
+    </li>
+    <li>
+        [19] "Compressed Air Energy Storage (CAES)," Energy Informative , [Online]. Available: https://energyinformative.org/compressed-air-energy-storage-caes/. [Accessed 27 January 2020].
+    </li>
+    <li>
+        [20] "Battery Storage for Renewables: Market Status and Technology Outlook," International Renewable Energy Agenc, 2015.
+    </li>
+    <li>
+        [21] "BU-205: Types of Lithium-ion," Battery University, 2019. [Online]. Available: https://batteryuniversity.com/learn/article/types_of_lithium_ion. [Accessed March 2020].
+    </li>
+    <li>
+        [22] "Pumped-Storage Hydropower," Office of Energy Efficiency &amp; Renewable Energy, [Online]. Available: https://www.energy.gov/eere/water/pumped-storage-hydropower. [Accessed 23 March 2020].
+    </li>
+    <li>
+        [23] S. Koohi-Fayegh and M. A. Rosen, "A review of energy storage types, applications and recent developments," Journal of Energy Storage , vol. 27, February 2020.
+    </li>
+    <li>
+        [24] SBC Energy Institute, "Electricity Storage Factbook," 2013.
+    </li>
+    <li>
+        [25] D. Gnoth, R. Irany, A. Kumar and A. Guesmi, "Energy Storage Monitor - Latest trends in energy storage | 2019," Future Energy Leaders- Market of Ideas-Energy Storage Monitor Team, 2019.
+    </li>
+    <li>
+        [26] "Energy storage: Tracking the technologies that will transform the power sector," Deloitte Development LLC., 2015.
+    </li>
+    <li>
+        [27] S. Sabihuddin, A. E. Kiprakis and M. Mueller , "A Numerical and Graphical Review of Energy," Energies, 2014.
+    </li>
+    <li>
+        [28] 2018 Utility Energy Storage Market Snapshot, Washington, DC: Smart Electric Power Alliance, 2018.
+    </li>
+    <li>
+        [29] "Canada Battery Maker Says Flow Storage Costs to Tumble by Half," Bloomberg, December 2018. [Accessed April 2020].
+    </li>
+    <li>
+        [30] B. Elmegaard and W. Brix, "Efficiency of Compressed Air Energy Storage," in The 24th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems: The 2011 conference motto: International Smart Energy Networks of Cooperation for Sustainable Development, 2011.
+    </li>
+    <li>
+        [31] "BU-808c: Coulombic and Energy Efficiency with the Battery," Battery University, [Online]. Available: https://batteryuniversity.com/learn/article/bu_808c_coulombic_and_energy_efficiency_with_the_battery. [Accessed 27 January 2020].
+    </li>
+    <li>
+        [32] K. Webb, Section 5: Flow Batteries.
+    </li>
+    <li>
+        [33] entura, "Batteries vs Pumped Hydro - Are they Sustainable?," 11 August 2017. [Online]. Available: https://www.entura.com.au/batteries-vs-pumped-storage-hydropower-are-they-sustainable/. [Accessed 1 April 2020].
+    </li>
+    <li>
+        [34] Underwriters Laboratories LLC, "Our Mission," 2020.
+    </li>
+    <li>
+        [35] Underwriters Laboratories LLC, "Energy Storage System Testing and Certification," 2020.
+    </li>
+    <li>
+        [36] National Fire Protection Association, "NFPA 855: Standard for the Installation of Stationary Energy Storage Systems," 2020.
+    </li>
+    <li>
+        [37] Modular Energy Storage Architecture (MESA) Standards Alliance, "MESA Standards," 2020.
+    </li>
+    <li>
+        [38] Standards Council of Canada, "CAN/CSA-C22.2 No. 60950-1-03 - Information Technology Equipment - Safety - Part 1: General Requirements," Standards Council of Canada, Ottawa, 2019.
+    </li>
+    <li>
+        [39] US Department of Transportation, "Transporting Lithium Batteries," July 2020. [Online]. Available: https://www.phmsa.dot.gov/lithiumbatteries. [Accessed August 2020].
+    </li>
+    <li>
+        [40] National Electrical Manufacturers Association , "About NEMA Standards," 2020.
+    </li>
+    <li>
+        [41] "Pumped hydroelectric energy storage," CTCN, [Online]. Available: https://www.ctc-n.org/technologies/pumped-hydroelectric-energy-storage. [Accessed April 2020].
+    </li>
+    <li>
+        [42] "Renewable Energy Technologies: Cost Analysis Series - Hydropower," IRENA, 2012.
+    </li>
+    <li>
+        [43] "Advantages of Variable Speed Pump Turbines for adjusting Power Supply," Mitsubishi Heavy Industries Technical Review, vol. 48, no. 3, 2011.
+    </li>
+    <li>
+        [44] Energy Efficient in Forward and Reverse Mode: Pumps Used as Turbines, Andritz, 2019.
+    </li>
+    <li>
+        [45] Pumped Storage Machines: Reversible Pump Turbines, Ternary Sets and Motor-Generators, Voith, 2011.
+    </li>
+    <li>
+        [46] Dresser-Rand, A Siemens Business, "SMART CAES - Compressed Air Energy Storage Solutions," 2015.
+    </li>
+    <li>
+        [47] Siemens, "Compressed Air Energy Storage," 2020. [Online]. Available: https://new.siemens.com/global/en/products/energy/renewable-energy/energy-storage-solutions/caes.html. [Accessed May 2020].
+    </li>
+    <li>
+        [48] Siemens, "Compressed Air Energy Storage Solutions, Comprehensive, proven, grid-scale energy storage," 2020. [Online]. Available: https://assets.new.siemens.com/siemens/assets/api/uuid:d9ffaea3-d2f2-4d77-b4e9-a6d48ffc9490/version:1585075487/21002-caes-solutions-2.pdf. [Accessed May 2020].
+    </li>
+    <li>
+        [49] Hydrostor, "Hydrostor Advanced Compressed Air Energy Storage," 2020. [Online]. Available: https://www.hydrostor.ca/wp-content/uploads/2020/01/Hydrostor_Brochure_2020.pdf. [Accessed February 2020].
+    </li>
+    <li>
+        [50] D. Proctor, "Developing a Solution for Utility-Scale Storage," 31 August 2020. [Online]. Available: https://www.powermag.com/developing-a-solution-for-utility-scale-storage/.
+    </li>
+    <li>
+        [51] Saft, "Saft a company of Total," 2020. [Online]. Available: https://www.saftbatteries.com/.
+    </li>
+    <li>
+        [52] SAFT, Interviewee, Lithium Ion Battery Discussion. [Interview]. 2019.
+    </li>
+    <li>
+        [53] Intensium Max: Ready-to install containerised energy storage for renewable energies and grid management, SAFT, 2012.
+    </li>
+    <li>
+        [54] SAFT, "Intensium Max 20 - High Energy," 2020. [Online]. Available: https://www.saftbatteries.com/products-solutions/products/intensium%C2%AE-max-20-high-energy?text=&amp;tech=&amp;market=330&amp;sort=newest&amp;submit=Search. [Accessed July 2020].
+    </li>
+    <li>
+        [55] Saft, "Intensium Max+ 20M Data Sheet," 2019.
+    </li>
+    <li>
+        [56] Saft, "Intensium Max+ 20P Data Sheet," 2019.
+    </li>
+    <li>
+        [57] Samsung SDI, "ESS Batteries by Samsung SDI," 2019. [Online]. Available: https://www.samsungsdi.com/upload/ess_brochure/201902_Samsung%20SDI%20E SS_EN.pdf. [Accessed April 2020].
+    </li>
+    <li>
+        [58] Samsung, Interviewee, Lithium Ion Battery Discussion. [Interview]. 2019.
+    </li>
+    <li>
+        [59] Tesla, "Tesla Powerpack," Tesla, 2020. [Online]. Available: https://www.tesla.com/en_CA/powerpack. [Accessed April 2020].
+    </li>
+    <li>
+        [60] Tesla, Interviewee, Lithium Ion Battery Discussion. [Interview]. 2019.
+    </li>
+    <li>
+        [61] LG Chem, "Grid/C&amp;I/UPS Battery," 2020. [Online]. Available: https://www.lgessbattery.com/eu/grid/intro.lg. [Accessed July 2020].
+    </li>
+    <li>
+        [62] LG Chem, "Change Your Energy, Charge Your Life," 2019. [Online]. Available: https://www.lgessbattery.com/eu/grid/intro.lg. [Accessed July 2020].
+    </li>
+    <li>
+        [63] ESS Inc., "ESS Inc.," 2020. [Online]. Available: https://www.essinc.com/. [Accessed April 2020].
+    </li>
+    <li>
+        [64] "The ESS Energy Warehouse," ESS Inc., [Online]. Available: https://www.essinc.com/energy-storage-products/. [Accessed 11 February 2020].
+    </li>
+    <li>
+        [65] ESS, Interviewee, Iron Hybrid Flow Battery Discussion. [Interview]. 2019.
+    </li>
+    <li>
+        [66] CellCube Energy Storage, "CellCube Energy Storage," 2020. [Online]. Available: https://www.cellcube.com/the-cellcube-1. [Accessed April 2020].
+    </li>
+    <li>
+        [67] CellCube, Interviewee, Vanadium Flow Battery Discussion. [Interview]. 2019.
+    </li>
+    <li>
+        [68] CellCube, "CellCube Company Presentation &amp; Technology Overview," 2019.
+    </li>
+    <li>
+        [69] "BU-210b: How does the Flow Battery Work?," Battery University, 31 May 2018. [Online]. Available: https://batteryuniversity.com/learn/article/bu_210b_flow_battery. [Accessed 11 February 2020].
+    </li>
+    <li>
+        [70] "Renewable Microgrid Stabilization: PowerStore," ABB, 2017.
+    </li>
+    <li>
+        [71] "Who we are - Innovative Energy Solutions," NRSTOR, 2019. [Online]. Available: http://nrstor.com/who-we-are/. [Accessed 23 March 2020].
+    </li>
+    <li>
+        [72] "NRStor and MPOWER launch Tesla Powerwall Home Battery Rental Program," NRSTOR, 2019. [Online]. Available: http://nrstor.com/2019/06/11/nrstor-and-mpower-launch-tesla-powerwall-home-battery-rental-program/. [Accessed 23 March 2020].
+    </li>
+    <li>
+        [73] "NRStor Project Spotlight: CAES," NRStor.
+    </li>
+    <li>
+        [74] NRStor, Interviewee, NRStor Energy Storage Facilities Discussion. [Interview]. March 2020.
+    </li>
+    <li>
+        [75] "NRStor Project Spotlight: 2MW/500kWh Minto Flywheel Project," NRStor.
+    </li>
+    <li>
+        [76] "Projects NRStor continues to grow its diverse portfolio of projects," NRStor, 2019. [Online]. Available: http://nrstor.com/portfolio/. [Accessed 23 March 2020].
+    </li>
+    <li>
+        [77] E. Petrocelli, Interviewee, Manager of Power Projects, PSEG Long Island. [Interview]. March 2020.
+    </li>
+    <li>
+        [78] S. Cherevatskiy, S. Zabihi, R. Korte, H. Klingenberg, S. Sproul, J. Glassmire, B. Buchholz and H. Bitaraf, "A 30MW Grid Forming BESS Boosting Reliability in South Australia and Providing Market Services on the National Electricity Market," in 18th Wind Integration Workshop, Dublin, Ireland, 2019.
+    </li>
+    <li>
+        [79] ABB, "Unlocking new revenue and stabilizing large electric grids with energy storage - e-mesh PowerStore High-power grid-forming inverters," 2020. [Online]. Available: https://new.abb.com/distributed-energy-microgrids.
+    </li>
+    <li>
+        [80] T. DeVries, "The GVEA BESS-Choosing a multi-million dollar system," Golden Valley Electric Association , Fairbanks.
+    </li>
+    <li>
+        [81] T. DeVries, "Worlds Most Powerful BESS is Online and Working in Alaska," Golden Valley Electric Association , Fairbanks.
+    </li>
+    <li>
+        [82] M. Nejati, Interviewee, Senior Technical Sales Manager - ABB. [Interview]. 11 May 2020.
+    </li>
+    <li>
+        [83] J. McDowall, Interviewee, Business Development Manager - SAFT. [Interview]. 27 May 2020.
+    </li>
+    <li>
+        [84] MESA Standards, "MESA Standards: Open Standards for Energy Storage," 2019. [Online]. Available: http://mesastandards.org/. [Accessed June 2020].
+    </li>
+    <li>
+        [85] "IESO takes decisive step with over 20 energy storage facilities under contract," Independent Electricity System Operator, 21 September 2018. [Online]. Available: http://www.ieso.ca/en/Powering-Tomorrow/Technology/IESO-takes-decisive-step-with-over-20-energy-storage-facilities-under-contract. [Accessed 23 March 2020].
+    </li>
+    <li>
+        [86] Independent Electricity System Operator, "IESO Report: Energy Storage," Independent Electricity System Operator, 2016.
+    </li>
+    <li>
+        [87] "Energy Storage Procurement at the IESO," Independent Electricity System Operator, 27 November 2019. [Online]. Available: http://www.ieso.ca/en/Sector-Participants/Energy-Procurement-Programs-and-Contracts/Energy-Storage. [Accessed 23 March 2020].
+    </li>
+    <li>
+        [88] New Electricity Storage Projects Set the Stage for Further Grid Modernization, Independent Electricity System Operator, 2014.
+    </li>
+    <li>
+        [89] R. Blackwell, "Ontario seeks wind, solar energy storage options," The Globe and Mail Inc. , 12 May 2018. [Online]. Available: https://www.theglobeandmail.com/report-on-business/industry-news/energy-and-resources/ontario-picks-contenders-for-wind-solar-energy-storage/article19901932/. [Accessed 23 March 2020].
+    </li>
+    <li>
+        [90] C. Aoyagi-Stom, "Innovative Battery Storage Facility at SCE's Mira Loma Substation Allows for More Renewables," Edison International, January 2017. [Online]. Available: https://energized.edison.com/stories/innovative-battery-storage-facility-at-sces-mira-loma-substation-allows-for-more-renewables. [Accessed March 2020].
+    </li>
+    <li>
+        [91] M. Geuss, "A look at the new battery storage facility in California built with Tesla Powerpacks," Ars Technica, February 2017. [Online]. Available: https://arstechnica.com/information-technology/2017/01/a-look-at-the-new-battery-storage-facility-in-california-built-with-tesla-powerpacks/.
+    </li>
+    <li>
+        [92] E. Sanchez, "Photo of Mira Loma Battery Energy Storage System," Edison International, January 2017. [Online]. Available: https://energized.edison.com/stories/innovative-battery-storage-facility-at-sces-mira-loma-substation-allows-for-more-renewables. [Accessed March 2020].
+    </li>
+    <li>
+        [93] California ISO , "Storage as a Transmission Asset: Enabling transmission connected storage assets providing regulated cost-of-service-based transmission service to also access other market revenue streams," California ISO , 2018.
+    </li>
+    <li>
+        [94] K. Meeusen, Storage as a Transmission Asset: Enabling transmission-connected storage assets providing regulated cost-of-service-based transmission service to also access other market revenue streams - Stakeholder Call, CAISO, 2018.
+    </li>
+    <li>
+        [95] K. Meeusen, Storage as a Transmission Asset: Enabling storage assets providing regulated cost-ofservice-based transmission service to access market revenues - Stakeholder Meeting, California ISO, 2019.
+    </li>
+    <li>
+        [96] California ISO, Storage as a Transmission Asset: Enabling storage assets providing regulated cost-of-servicebased transmission service to access market revenues - Second Straw Proposal, California ISO, 2018.
+    </li>
+    <li>
+        [97] K. Meeusen, Enabling storage assets providing regulated cost-of-servicebased transmission service to access market revenues - Second Revised Straw Proposal, California ISO, 2018.
+    </li>
+    <li>
+        [98] California ISO, "INITIATIVE: Storage as a transmission asset," California ISO, [Online]. Available: http://www.caiso.com/StakeholderProcesses/Storage-as-a-transmission-asset. [Accessed 23 March 2020].
+    </li>
+    <li>
+        [99] K. Kumaraswamy, J. Cabbabe and D. H. Wolfschmidt, "Redrawing the Network Map: Energy Storage as Virtual Transmission," Fluence, 2019.
+    </li>
+    <li>
+        [100] M. S. Reisch, "Solid-state batteries inch ther way toward commercialization," Chemical &amp; Engineering News, vol. 95, no. 46, pp. 19-21, 2017.
+    </li>
+    <li>
+        [101] K. S. Jones, "State of Solid-State Batteries," Software and Analysis of Advanced Materials Processing Center, University of Florida, 2018. [Online]. Available: http://www.ehcar.net/library/rapport/rapport206.pdf. [Accessed April 2020].
+    </li>
+    <li>
+        [102] K. Zhu, C. Wang, Z. Chi, F. Ke, Y. Yang, A. Wang, W. Wang and L. Miao, "How Far Away Are Lithium-Sulfur Batteries From Commercialization?," Frontiers in Energy Research, vol. 7, no. 123: https://doi.org/10.3389/fenrg.2019.00123, 2019.
+    </li>
+    <li>
+        [103] "Obrovac Research Group - Sodium Ion Batteries," Dalhousie University, [Online]. Available: https://www.dal.ca/sites/obrovac/research/sodium-ion-batteries.html. [Accessed 17 April 2020].
+    </li>
+    <li>
+        [104] A. Rudola, "Can Sodium-ion Batteries Propel the Future of Clean Transportation?," EVreporter, 15 November 2019. [Online]. Available: https://evreporter.com/sodium-ion-batteries/. [Accessed 17 April 2020].
+    </li>
+    <li>
+        [105] B. Yang, A. Murali, A. Nirmalchandar, B. Jayathilake, G. . K. Surya Prakash and S. R. Narayanan, "A Durable, Inexpensive and Scalable Redox Flow Battery Based on Iron Sulfate and Anthraquinone Disulfonic Acid," Journal of The Electrochemical Society, 2020.
+    </li>
+    <li>
+        [106] "Frequently Asked Questions," ARES North America, [Online]. Available: https://www.aresnorthamerica.com/frequently-asked-questions. [Accessed 17 April 2020].
+    </li>
+    <li>
+        [107] "Grid Scale Energy Storage," ARES North America, [Online]. Available: https://www.aresnorthamerica.com/grid-scale-energy-storage. [Accessed 17 April 2020].
+    </li>
+    <li>
+        [108] "Our Solution," Malta, [Online]. Available: https://www.maltainc.com/our-solution. [Accessed 17 April 2020].
+    </li>
+    <li>
+        [109] "Malta - Storing renewable energy in molten salt," X Development LLC., [Online]. Available: https://www.x.company/projects/malta/. [Accessed 17 April 2020].
+    </li>
+    <li>
+        [110] "Energy Vault - Enabling a Renewable World," Energy Vault, [Online]. Available: https://energyvault.com/. [Accessed 17 April 2020].
+    </li>
+    <li>
+        [111] "Cryogenic Energy Storage," Highview Power, [Online]. Available: https://www.highviewpower.com/technology/. [Accessed 17 April 2020].
+    </li>
+    <li>
+        [112] NantEnergy, "Zinc-Air Storage," NantEnergy, 2019. [Online]. Available: https://nantenergy.com/zinc-air/. [Accessed April 2020].
+    </li>
+    <li>
+        [113] NantEnergy, "Zinc-air Energy Storage System Product Overview," 2019. [Online]. Available: http://nantenergy.wpengine.com/wp-content/uploads/2019/04/Nant-Energy-GEN-8-ZINC-AIR-DATASHEET.pdf. [Accessed April 2020].
+    </li>
+    <li>
+        [114] NantEnergy, "Hansel Auto Group, MBL Energy and NantEnergy Unveil California's First Solar + Energy Storage Installation at Car Dealerships," 20 September 2019. [Online]. Available: https://nantenergy.com/hansel-auto-group-mbl-energy-and-nantenergy-unveil-californias-first-solar-energy-storage-installations-at-car-dealerships/. [Accessed August 2020].
+    </li>
+    <li>
+        [115] e-Zn Inc., "e-Zn - Economical Energy Storage," 2019. [Online]. Available: http://e-zn.com/technology/. [Accessed April 2020].
+    </li>
+    <li>
+        [116] Zinc8, "Zinc8 Energy Storage - The Leader in ZInc Air Battery Technology," 2020. [Online]. Available: https://www.zinc8energy.com/. [Accessed August 2020].
+    </li>
+    <li>
+        [117] J. Weaver, "Zinc-air battery being deployed in New York aims for extremely low $45/kWh cost," pv magazine, 27 January 2020. [Online]. Available: https://pv-magazine-usa.com/2020/01/27/zinc-air-battery-being-deployed-in-new-york-aims-for-extremely-low-45-kwh-cost/. [Accessed August 2020].
+    </li>
+    <li>
+        [118] New York Power Authority, "NYPA Announces New Energy Storage Demonstration Project Supporting Further Integration of Renewable Power Sources Into the Grid," January 2020. [Online]. Available: https://www.nypa.gov/news/press-releases/2020/20200117-zinc. [Accessed August 2020].
+    </li>
+    <li>
+        [119] Global Energy Storage Database Projects (2-18-2020), Department of Energy (DOE), NTESS , 2020.
+    </li>
+</ul>
